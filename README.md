@@ -1,0 +1,2 @@
+# gitpractice
+THIS REPO IS FOR PRACTICE THE GIT
